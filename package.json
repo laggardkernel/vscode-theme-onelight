@@ -1,0 +1,42 @@
+{
+    "name": "vscode-theme-onelight",
+    "displayName": "One Light Italic Theme",
+    "description": "One light theme with italic support for VSCode",
+    "version": "0.1.0",
+    "publisher": "laggardkernel",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "extensionKind": [
+        "ui",
+        "workspace"
+    ],
+    "icon": "icon.png",
+    "keywords": [
+        "one light",
+        "onelight",
+        "theme",
+        "atom"
+    ],
+    "contributes": {
+        "themes": [{
+                "label": "Atom One Half Light",
+                "uiTheme": "vs",
+                "path": "./themes/one-half-light.json"
+            },
+            {
+                "label": "Atom One Light",
+                "uiTheme": "vs",
+                "path": "./themes/one-light.json"
+            }
+        ]
+    },
+    "homepage": "https://github.com/laggardkernel/vscode-theme-onelight",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/laggardkernel/vscode-theme-onelight"
+    }
+}
