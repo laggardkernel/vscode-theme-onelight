@@ -1,5 +1,6 @@
 {
   "name": "One Light Italic",
+  "type": "light",
   "colors": {
     "focusBorder": "#0366d6",
     "foreground": "#24292e",
