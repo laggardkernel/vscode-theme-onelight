@@ -2,7 +2,7 @@
   "name": "vscode-theme-onelight",
   "displayName": "One Light Italic",
   "description": "One light theme with italic support for VSCode",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "laggardkernel",
   "engines": {
     "vscode": "^1.12.0"
